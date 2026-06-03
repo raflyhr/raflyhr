@@ -27,7 +27,7 @@ I am a Web Developer from Indonesia and an Informatics student at Universitas Am
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflyhr&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" width="48%" />
 </div>
 
 ---
