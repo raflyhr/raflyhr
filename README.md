@@ -1,21 +1,52 @@
-# 💫 About Me:
-🛠 I’m currently working on<br>Web development using HTML, CSS, JavaScript, PHP, and learning Laravel.<br>🤝 I’m looking to collaborate on<br>Small to mid-scale PHP/Laravel and front-end projects.<br>🙌 I’m looking for help with<br>Improving backend logic, clean code, and Laravel best practices.<br>🌱 I’m currently learning<br>Laravel, database design, and full-stack workflows.<br>💬 Ask me about<br>Web development basics, PHP, or getting started with Laravel.<br>⚡ Fun fact<br>I enjoy building simple ideas into real, working web apps.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Software+Architecture+Enthusiast" alt="Typing SVG" />
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rafly_hernyeni565) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafly HR) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@raflyhermansyah27) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@RAFLY HERMANSYAH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raflyhermansyah565@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raflyhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raflyhr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=raflyhr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <b>Software Engineer | Informatics Student at Universitas Amikom Yogyakarta</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raflyhr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
+
+**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
+**Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
+🐧**Environment:** Arch Linux user since 2025 (Hyprland, Zen Kernel), macOS Hackintosh (Tahoe).<br>
+**Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
+
+---
+
+### Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,cpp,cs,ts,python,php,arduino,linux,arch,apple,firebase,vite,mysql,figma,blender,git,flutter,androidstudio&theme=dark" alt="Rafly hr Te Stack" />
+  </a>
+</div>
+
+<br>
+
+### GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation 1" height="225" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkzcXE0aG53YWlkaWE4emFoNDE0ZG8yN2h1aWx0bHljemNncDdwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Pixel Art Animation 2" height="225" />
+</div>
+
+---
+
+### Let's Connect
+
+I am always open to discussing new engineering projects, technical collaborations, or system architecture.
+
+<p align="center">
+  <a href="mailto:raflyhermansyah565@gmail.com"><img src="https://img.shields.io/badge/Email-leshoraa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/rafly_hernyeni/"><img src="https://img.shields.io/badge/Instagram-ren.drra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
