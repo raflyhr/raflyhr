@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Software+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rafly+hermansyah;Full+Stack+Developer;Software+Architecture+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,18 +12,15 @@
 
 I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
-**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
-**Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
-🐧**Environment:** Arch Linux user since 2025 (Hyprland, Zen Kernel), macOS Hackintosh (Tahoe).<br>
-**Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
-
+**Core Focus:** Full Stack Web Development,html,css,javascript,php,tailwindcss,react,express,laravel,python, and C++.<br>
+**Design Philosophy:** Minimalist UI/UX, .<br>
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,cpp,cs,ts,python,php,arduino,linux,arch,apple,firebase,vite,mysql,figma,blender,git,flutter,androidstudio&theme=dark" alt="Rafly hr Te Stack" />
+    <img src="https://skillicons.dev/icons?i=react,cpp,cs,ts,python,php,firebase,vite,mysql,figma,git,vscode&theme=dark" alt="Rafly hr Te Stack" />
   </a>
 </div>
 
