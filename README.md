@@ -9,12 +9,11 @@
 ---
 
 ### About Me
-
 I am a Web Developer from Indonesia and an Informatics student at Universitas Amikom Yogyakarta. I specialize in developing modern, responsive, and user-centered web applications. With a strong interest in web technologies, I enjoy transforming ideas into functional digital experiences while continuously learning and improving my development skills.
-**Core Focus:** Full Stack Web Development,html,css,javascript,php,tailwindcss,react,express,laravel,python,typescript and C++.<br>
-**Design Philosophy:** Minimalist UI/UX, .<br>
----
 
+Full Stack Web Development • HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Express.js • Tailwind CSS • Python • C++
+
+Minimalist UI/UX • Responsive Design • Clean Code
 ### Tech Stack & Tools
 
 <div align="center">
