@@ -10,8 +10,7 @@
 
 ### About Me
 
-I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
-
+I am a Web Developer from Indonesia and an Informatics student at Universitas Amikom Yogyakarta. I specialize in developing modern, responsive, and user-centered web applications. With a strong interest in web technologies, I enjoy transforming ideas into functional digital experiences while continuously learning and improving my development skills.
 **Core Focus:** Full Stack Web Development,html,css,javascript,php,tailwindcss,react,express,laravel,python,typescript and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, .<br>
 ---
