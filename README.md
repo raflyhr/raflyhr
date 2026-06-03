@@ -20,7 +20,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,C++,tailwindcss,react,express,laravel,python,typescript,firebase,vite,mysql,figma,git,vscode&theme=dark" alt="Rafly hr Te Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cpp,tailwindcss,react,express,laravel,python,typescript,firebase,vite,mysql,figma,git,vscode&theme=dark" alt="Rafly hr Te Stack" />
   </a>
 </div>
 
