@@ -12,7 +12,7 @@
 
 I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
-**Core Focus:** Full Stack Web Development,html,css,javascript,php,tailwindcss,react,express,laravel,python, and C++.<br>
+**Core Focus:** Full Stack Web Development,html,css,javascript,php,tailwindcss,react,express,laravel,python,typescript and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, .<br>
 ---
 
@@ -20,7 +20,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,cpp,cs,ts,python,php,firebase,vite,mysql,figma,git,vscode&theme=dark" alt="Rafly hr Te Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,C++,tailwindcss,react,express,laravel,python,typescript,firebase,vite,mysql,figma,git,vscode&theme=dark" alt="Rafly hr Te Stack" />
   </a>
 </div>
 
@@ -44,6 +44,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 I am always open to discussing new engineering projects, technical collaborations, or system architecture.
 
 <p align="center">
-  <a href="mailto:raflyhermansyah565@gmail.com"><img src="https://img.shields.io/badge/Email-leshoraa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/rafly_hernyeni/"><img src="https://img.shields.io/badge/Instagram-ren.drra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:raflyhermansyah565@gmail.com"><img src="https://img.shields.io/badge/Email-raflyhermansyah565%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/rafly_hernyeni/"><img src="https://img.shields.io/badge/Instagram-rafly_hernyeni
+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
