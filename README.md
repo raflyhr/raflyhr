@@ -32,7 +32,7 @@ Minimalist UI/UX • Responsive Design • Clean Code
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation 1" height="225" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkzcXE0aG53YWlkaWE4emFoNDE0ZG8yN2h1aWx0bHljemNncDdwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Pixel Art Animation 2" height="225" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation 1" height="225" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3M3oyY3NtM3E1andrOHR4b3MxcWhkMXZtYmF1eXFmYXN5YjNncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Pixel Art Animation 2" height="225" />
 </div>
 
 ---
