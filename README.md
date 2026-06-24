@@ -18,7 +18,7 @@ Minimalist UI/UX • Responsive Design • Clean Code
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cpp,tailwindcss,react,express,laravel,python,typescript,firebase,vite,mysql,figma,git,archlinux,vscode&theme=dark" alt="Rafly hr Te Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cpp,tailwindcss,react,express,laravel,python,typescript,firebase,vite,mysql,figma,git,linux,vscode&theme=dark" alt="Rafly hr Te Stack" />
   </a>
 </div>
 
